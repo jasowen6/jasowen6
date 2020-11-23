@@ -3,6 +3,8 @@
   -  GitHub and GitHub Pages
   -  Atom
 
+Read more about me at [jasowen6.github.io](https://jasowen6.github.io/)
+
 <!--
 **jasowen6/jasowen6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
