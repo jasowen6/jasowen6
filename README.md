@@ -1,7 +1,6 @@
 ### Hi there 
 - 🌱 I’m currently learning: 
   -  GitHub and GitHub Pages
-  -  Atom
 
 Read more about me at [jasowen6.github.io](https://jasowen6.github.io/)
 
